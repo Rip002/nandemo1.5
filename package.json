@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+        "js-confuser": "^1.7.3",
+         "telegraf": "^4.16.3",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "name": "Nandemo",
+  "version": "1.5.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "PermenMD",
+  "license": "ISC",
+  "description": ""
+}
